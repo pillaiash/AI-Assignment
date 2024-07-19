@@ -11,3 +11,8 @@ To run the notebook, you need the following libraries:
 
 # Results
 The processed video will show the tracked balls with their respective colors and quadrants. Entry and exit events will be displayed with timestamps. A CSV log file will be generated containing the timestamp, quadrant number, ball color, and event type (entry or exit).
+
+# Output Video 
+An example output video is included in this repository. You can view the processed video to see how the tracking works and the overlays indicating the ball colors, their movements across quadrants, and timestamps of entry and exit events.
+
+
